@@ -1,0 +1,20 @@
+# Student Study Assistant ChatBot 
+
+This is a simple text-based chatbot built using Python.  
+It helps students with:
+- Study tips
+- Motivation quotes
+- Time table suggestions
+
+## How it works:
+
+It takes user input and responds using simple `if-else` logic.
+
+##  File included:
+
+- `chatbot.py` → Main chatbot code
+
+## 🚀 How to run:
+
+```bash
+python chatbot.py
